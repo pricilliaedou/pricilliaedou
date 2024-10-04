@@ -1,7 +1,7 @@
 ## 👋 Bonjour ! Bienvenue sur mon profil GitHub
 
 <div align="center">
-  ![alt text](gif-accueil.gif)
+<img src="./gif-accueil.gif" alt="Gif code"/>
 </div>
 
 ## 🚀 À propos de moi
