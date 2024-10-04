@@ -1,16 +1,18 @@
-![alt text](gif-accueil.gif)
+## 👋 Bonjour ! Bienvenue sur mon profil GitHub
 
-## 👋 Bonjour! Bienvenue sur mon profil GitHub
+<div align="center">
+  ![alt text](gif-accueil.gif)
+</div>
 
 ## 🚀 À propos de moi
 
-- 🌱 Je suis Pricillia. J’ai évolué pendant 10 ans dans le domaine de l’audit. Passionnée par le web depuis toujours, j'ai décidé de me reconvertir en tant que conceptrice développeuse d’applications. Mon parcours en audit m'a permis de développer une grande rigueur, une forte capacité d'analyse et une attention aux détails, des qualités que je retrouve dans le développement web. Curieuse de nature, autonome et dotée d'une grande capacité d’adaptation, je prends plaisir à relever de nouveaux défis et à explorer des solutions innovantes dans ce secteur en constante évolution.
+- 🌱 Je m'appelle Pricillia. Après avoir évolué pendant 10 ans dans le domaine de l’audit, je me suis reconvertie en tant que conceptrice développeuse d’applications, une passion que je nourris depuis longtemps. Mon expérience en audit m’a permis de développer une grande rigueur, une forte capacité d'analyse et une attention particulière aux détails, des qualités que j’applique maintenant au développement web. Curieuse de nature, autonome et dotée d'une grande capacité d’adaptation, je prends plaisir à relever de nouveaux défis et à explorer des solutions innovantes dans ce secteur en constante évolution.
 
-- 🔭 Actuellement, je suis en formation chez Descodeuses et je travaille sur diverses projets que vous pourrez découvrir à travers mes repositories.
+- 🔭 Actuellement en formation chez Descodeuses, je travaille sur divers projets que vous pourrez découvrir à travers mes repositories.
 
-- 🤝 Je suis à la recherche d'un stage de 6 mois à partir de janvier 2025
+- 🤝 Je suis à la recherche d'un **stage de 6 mois** à partir de **janvier 2025**.
 
-- 📫 N'hésitez pas à me contacter : [pricillia.edou@gmail.com]
+- 📫 N'hésitez pas à me contacter : [pricillia.edou@gmail.com](mailto:pricillia.edou@gmail.com)
 
 ## 📊 Mes Stats GitHub
 
